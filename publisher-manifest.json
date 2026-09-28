@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a4700ab923ae1adea3bf2135",
+  "owner": "rywytw3jm",
+  "repo": "page-ee96980ffa5598c51c0baf7a",
+  "title": "青云梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ee96980ffa5598c51c0baf7a",
+      "a": "青云梯",
+      "b": "",
+      "entity": "青云梯",
+      "brand": "青云梯",
+      "separator": "",
+      "path": "index.html",
+      "hash": "fe96214912908365979e493725b97d80d6fbb2a34e9f875d4b9d0b74bc628994",
+      "content": {
+        "keyword1": "青云梯",
+        "keyword2": "",
+        "primary_entity": "青云梯",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "青云梯提供机场订阅与多端客户端选择说明，帮助你按设备完成VPN梯子、网络加速与加速器配置，并在官网页面内找到下载与订阅入口。",
+          "AI_DESCRIPTION": "青云梯提供机场订阅与多端客户端选择说明，帮助你按设备完成VPN梯子、网络加速与加速器配置，并在官网页面内找到下载与订阅入口。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>.qyt-wrap{box-sizing:border-box;margin:0 auto;max-width:100%;overflow-x:hidden;background:#f2f0f5;color:#1c1824;font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.65}.qyt-wrap *,.qyt-wrap *::before,.qyt-wrap *::after{box-sizing:border-box}.qyt-wrap a{color:#5a3488;text-decoration:none}.qyt-wrap a:hover{text-decoration:underline}.qyt-bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px 16px;padding:12px 16px;background:#ebe6f2;border-bottom:1px solid #ddd4e8}.qyt-mark{font-weight:700;color:#4a2d72;letter-spacing:.04em}.qyt-nav{display:flex;flex-wrap:wrap;gap:8px 14px;font-size:14px}.qyt-nav a{color:#3d2a58}.qyt-main{padding:16px;max-width:920px;margin:0 auto}.qyt-hero{display:grid;gap:12px;padding:18px 16px;background:#fff;border:1px solid #e4dceb;border-radius:12px;box-shadow:0 1px 0 #efeaf6}.qyt-kicker{margin:0;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#6b4d93}.qyt-wrap h1{margin:0;font-size:1.7rem;line-height:1.25;color:#3a2460}.qyt-lead{margin:0;color:#4c4658}.qyt-chips{display:flex;flex-wrap:wrap;gap:8px;margin:0;padding:0;list-style:none}.qyt-chips li{padding:4px 10px;background:#efe8f8;color:#4a2d72;border-radius:999px;font-size:13px}.qyt-wrap h2{margin:28px 0 10px;font-size:1.25rem;color:#3a2460}.qyt-wrap h3{margin:16px 0 6px;font-size:1.05rem;color:#4a2d72}.qyt-copy{margin:0 0 10px;color:#3f3a48}.qyt-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.qyt-card{padding:12px 12px 10px;background:#fff;border:1px solid #e4dceb;border-radius:10px}.qyt-card p{margin:0;font-size:14px;color:#4c4658}.qyt-band{margin-top:8px;padding:14px;background:#5a3488;color:#f7f4fb;border-radius:12px}.qyt-band h2{margin:0 0 8px;color:#fff}.qyt-band p{margin:0 0 12px;color:#ece4f6}.qyt-inject{padding:10px;background:#f7f4fb;border-radius:8px;color:#1c1824}.qyt-steps{display:grid;gap:8px;margin:0;padding:0;list-style:none;counter-reset:s}.qyt-steps li{display:grid;grid-template-columns:28px 1fr;gap:10px;align-items:start;padding:10px 12px;background:#fff;border:1px solid #e4dceb;border-radius:10px}.qyt-steps li::before{counter-increment:s;content:counter(s);display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background:#efe8f8;color:#5a3488;font-weight:700;font-size:13px}.qyt-faq{display:grid;gap:8px}.qyt-wrap details{background:#fff;border:1px solid #e4dceb;border-radius:10px;padding:8px 12px}.qyt-wrap summary{cursor:pointer;font-weight:600;color:#3a2460}.qyt-wrap details p{margin:8px 0 4px;color:#4c4658}.qyt-foot{padding:18px 16px 28px;text-align:center;color:#6a6474;font-size:13px;border-top:1px solid #ddd4e8;background:#ebe6f2}.qyt-note{font-size:13px;color:#5c5668}.qyt-split{display:grid;gap:10px}@media(min-width:720px){.qyt-hero{padding:22px 22px}.qyt-wrap h1{font-size:2rem}.qyt-split{grid-template-columns:1.1fr .9fr}.qyt-grid{grid-template-columns:1fr 1fr 1fr 1fr}.qyt-main{padding:22px 16px 36px}}@media(max-width:520px){.qyt-grid{grid-template-columns:1fr 1fr}}</style><div class=\"qyt-wrap\"><header class=\"qyt-bar\"><div class=\"qyt-mark\">青云梯</div><nav class=\"qyt-nav\"><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#clients\">客户端</a><a href=\"#plans\">订阅</a><a href=\"#guide\">说明</a><a href=\"#faq\">问答</a></nav></header><main class=\"qyt-main\"><section class=\"qyt-hero\" id=\"intro\"><p class=\"qyt-kicker\">机场订阅 · 客户端选择</p><h1>青云梯</h1><p class=\"qyt-lead\">青云梯把机场订阅与多端客户端放在同一条路径上：先确认套餐入口，再按设备挑选客户端，最后按步骤导入并连接。本页是阅读向导，重点帮你把「选哪款客户端」这件事做清楚。</p><ul class=\"qyt-chips\"><li>VPN 梯子</li><li>网络加速</li><li>加速器配置</li><li>官网下载指引</li></ul></section><section class=\"qyt-split\"><article class=\"qyt-card\"><h2>品牌简介</h2><p class=\"qyt-copy\">青云梯面向需要稳定跨境访问的个人用户。它以机场订阅为核心，配合常见代理客户端完成连接。你可以把它理解成「订阅 + 客户端」两段式工作流：订阅负责权限与线路入口，客户端负责在手机、电脑上真正发起加速。</p><p class=\"qyt-copy\">名称取「青云」与「梯」之意，强调把复杂配置收成可执行的台阶。本站不堆参数表，只把选择顺序、使用场景和常见疑问写清楚，避免把套餐数字或未提供的节点细节写进正文。</p></article><article class=\"qyt-card\"><h2>阅读顺序</h2><p class=\"qyt-copy\">建议按「场景 → 客户端 → 订阅 → 操作」浏览。若你已经有设备偏好，可直接进入客户端选择；若你先要确认计费入口，再看订阅模块。所有站内链接均为页面锚点，便于手机一屏内跳转。</p><p class=\"qyt-copy qyt-note\">青云梯 VPN、青云梯机场与客户端下载说明均集中在本页，不另开外链下载站。</p></article></section><h2 id=\"scenes\">使用场景</h2><p class=\"qyt-copy\">下列场景决定你更该选轻量客户端还是功能完整的桌面端。卡片按任务压缩，方便对照。</p><div class=\"qyt-grid\"><article class=\"qyt-card\"><h3>远程协作</h3><p>开会、文档与代码仓库跨区域访问时，优先选支持系统代理或规则分流的客户端，减少浏览器单独设置。</p></article><article class=\"qyt-card\"><h3>学习资料</h3><p>课程平台、论文库与公开课页面适合规则模式：仅加速学术域名，本地常用站点保持直连。</p></article><article class=\"qyt-card\"><h3>内容浏览</h3><p>社交与资讯站点对延迟更敏感。手机端选界面清晰、一键连接的客户端，避免在小屏里翻高级项。</p></article><article class=\"qyt-card\"><h3>多设备切换</h3><p>同一订阅在手机与电脑间轮换时，保持配置命名一致，减少重复导入。先定主设备，再同步到第二台。</p></article></div><section class=\"qyt-band\" id=\"clients\"><h2>客户端选择（重点）</h2><p>青云梯的使用体验很大程度取决于客户端是否匹配系统。按系统筛选，而不是按名称跟风：能导入订阅链接或二维码、能看连接状态、能开关规则，这三项比外观更重要。下方模块由程序注入真实客户端与链接，请以该列表为准，不要使用来路不明的安装包。</p><div class=\"qyt-inject\">{{CLIENTS_HTML}}</div></section><h2 id=\"plans\">机场订阅入口</h2><p class=\"qyt-copy\">订阅是青云梯的权限凭证。选择套餐、获取订阅地址后，再回到客户端完成导入。下列价格与方案由系统固定输出，正文不改写数值，也不把套餐复制成分散段落。</p><div class=\"qyt-inject\">{{PLANS_HTML}}</div><h2 id=\"guide\">操作说明</h2><p class=\"qyt-copy\">把加速器跑起来只需四步。每一步对应一个紧凑卡片，可在手机上逐条勾完。</p><ol class=\"qyt-steps\"><li><div><h3>确认设备与系统</h3><p class=\"qyt-copy\">先分清 iOS、Android、Windows 或 macOS。同一品牌客户端在不同系统上的导入入口位置不同，选错安装包是最常见的停顿点。</p></div></li><li><div><h3>打开订阅入口</h3><p class=\"qyt-copy\">在本页订阅模块完成选择后，复制订阅链接或保存二维码。不要把链接发到公开群组，避免权限被他人占用。</p></div></li><li><div><h3>在客户端中导入</h3><p class=\"qyt-copy\">回到客户端选择区，打开对应应用，使用「从 URL 更新」或「扫描订阅」类功能。导入成功后应能看到配置名称，而不是空白列表。</p></div></li><li><div><h3>连接并检查分流</h3><p class=\"qyt-copy\">先连接，再打开需要加速的站点做一次访问确认。若仅部分网站需要梯子，打开规则或分流模式，让本地服务直连。</p></div></li></ol><h3>客户端怎么配对订阅</h3><p class=\"qyt-copy\">机场订阅通常是一条可更新的配置地址。客户端定期拉取该地址，才能同步节点列表与策略。若你更换套餐，不必重装软件，只需在客户端里更新订阅。青云梯官网下载指引的核心是「先选对客户端，再贴订阅」，而不是到处寻找第三方安装器。</p><h3>网络加速与规则</h3><p class=\"qyt-copy\">VPN 梯子并不是把所有流量都送出去才算成功。更稳妥的做法是：系统代理 + 规则分流。浏览国内常用服务时保持直连，访问需要加速的站点时再走订阅线路。这样能减少卡顿，也更容易判断问题出在客户端还是目标网站本身。</p><h2 id=\"faq\">常见问题</h2><div class=\"qyt-faq\"><details><summary>青云梯是什么？和普通加速器有何不同？</summary><p>青云梯是以机场订阅配合多端客户端使用的网络加速方案。它把「买订阅」和「选客户端」拆开：订阅提供可更新的配置，客户端负责在设备上连接。和只能浏览器插件里点一下的加速器相比，它更依赖你按系统选择合适的客户端，并完成一次导入。</p></details><details><summary>我应该优先看客户端还是先看套餐？</summary><p>若你还没有可用的应用，先看本页「客户端选择」，确认设备能安装后再打开订阅入口。若你已经装好常用客户端，可以直接进入订阅模块，复制链接后在软件里更新。两者都要完成，顺序取决于你手头缺哪一块。</p></details><details><summary>找不到下载地址怎么办？</summary><p>本页不编造独立下载链接。请只使用客户端模块中给出的入口。若列表暂时为空，停留在本页刷新或稍后再看，不要去搜索引擎随意下载同名安装包，以免装到被篡改的文件。</p></details><details><summary>导入订阅后列表是空的，如何排查？</summary><p>先检查链接是否完整复制，有无多余空格；再确认客户端支持该订阅格式。尝试在客户端内手动更新一次。若仍为空，回到订阅入口确认套餐仍有效，而不是继续更换各种第三方客户端。</p></details><details><summary>手机和电脑能共用同一条青云梯订阅吗？</summary><p>一般可以。同一订阅地址可以导入到不同设备的客户端中。建议先在主设备完成连接测试，再同步到第二台。注意同时在线数量以你所选套餐规则为准，本页不额外承诺设备上限。</p></details><details><summary>连接成功但仍打不开目标网站？</summary><p>先区分是所有网站失败还是个别站点失败。全部失败时，切换一次客户端内的模式（如规则 / 全局）并检查系统时间是否准确。个别失败时，多半是目标站自身限制，可换一个同类站点验证，而不是反复重装软件。</p></details><details><summary>青云梯官网、官方网站和官方下载分别指什么？</summary><p>在本页语境中，它们都指向当前这份说明：用锚点到达客户端与订阅模块，完成选择与导入。它们不是额外的评分站，也不附带评论区。标题与正文保持一致，只描述如何选择客户端和阅读订阅入口。</p></details></div></main><footer class=\"qyt-foot\">青云梯 · 机场订阅与客户端选择说明 · 仅使用页内锚点</footer></div>",
+          "hash": "7a2530ea8f4079458ef63966051ce13ccf8471799b4663d188487f7454d6fc2c",
+          "seo": {
+            "title": "青云梯官网 | 机场订阅、VPN梯子与客户端下载指南",
+            "keywords": "青云梯,青云梯VPN,青云梯机场,青云梯官网,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "青云梯提供机场订阅与多端客户端选择说明，帮助你按设备完成VPN梯子、网络加速与加速器配置，并在官网页面内找到下载与订阅入口。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gangzharc.cn",
+    "host": "zh.gangzharc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "gangzharc.cn",
+      "url": "https://gangzharc.cn/",
+      "label": "KyCloud",
+      "apex": "gangzharc.cn",
+      "kind": null,
+      "identity": "juqvks/page-ec76fd439b2bfbc1b2fad437"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "bd33d274cd3ea4115bf7c074a170843c1f9d864e2b398ade8f8c3c42c1a0a73c",
+    "sitemap.xml": "876e4e05698bcd563b50cfca2961af66ad9e76247e5b161e9ac863f2870bea71",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1082921c307592760e2f9ad50fa5accf988197b0d8692dc637ff7d5f189d46d8",
+    "robots.txt": "1af8b62e84c719dfc167def7f70aca1005b68b3461a5454a0b7ea8390f388133",
+    "16cbdcfa4294598e972e23daf0eccaf5.txt": "14c81ad0ebdd2eff90b8ceb9ce5140c804ce3ca037844ecc5c601036e41138ac"
+  },
+  "revision": "caa316f7abbed580dd95ddf3a475bfeedb4abf000edab350ff969f06dde8f792"
+}
